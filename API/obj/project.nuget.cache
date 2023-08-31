@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MEEG97nU/0cH3DZIfR9hl6x5oQTJIvFR+4Mft7TnqW+Wb6ij1DOHjVXSREKablcXOsZEexe75e63hFukG0+DdQ==",
+  "success": true,
+  "projectFilePath": "/Users/ivansoria/code/FacebookClone/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivansoria/.nuget/packages/microsoft.aspnetcore.openapi/7.0.7/microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
